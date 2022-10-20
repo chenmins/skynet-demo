@@ -14,7 +14,7 @@ client.bat 启动客户端
 ### 需要启动redis
 ```
 
-docker run --name redis6 -d -p 6379:6379 redis:6.0.1-alpine3.11 --requirepass 12111211
+docker run --name redis6 -d -p 6379:6379 redis:6.0.1-alpine3.11 --requirepass XXXXXX
 
 ```
 
