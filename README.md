@@ -25,3 +25,4 @@ docker run -it --rm -v /root/skynet-test-cpy:/skynet/script \
 -p 8888:8888 \ 
 chenmins/skynet /skynet/script/config.test2
 ```
+![RUNOOB 图标](20221020195518.png)
