@@ -2,6 +2,8 @@
 
 windows 下
 
+启动redis，服务器的redis配置文件在test\service\redis.lua,根据具体情况修改
+
 server.bat 启动服务器
 
 client.bat 启动客户端
