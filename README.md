@@ -22,8 +22,8 @@ docker run --name redis6 -d -p 6379:6379 redis:6.0.1-alpine3.11 --requirepass XX
 
 ### 需要启动chenmins/skynet
 
-
-[github.com/chenmins/skynet](https://github.com/chenmins/skynet)
+ 
+[github.com/chenmins/skynet](https://github.com/chenmins/skynet/blob/docker/Dockerfile)
 
 ```
 docker run -it --rm -v /root/skynet-test-cpy:/skynet/script \
